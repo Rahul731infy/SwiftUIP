@@ -51,7 +51,7 @@ struct ContentView: View {
         Button {
           print("do login action")
         } label: {
-          Text("Sign In")
+          Text("LogIN")
           .font(.title2)
           .bold()
           .foregroundColor(.white)
@@ -59,7 +59,7 @@ struct ContentView: View {
         .frame(height: 50)
         .frame(maxWidth: .infinity)
         .background(
-           LinearGradient(colors: [.blue, .red],                   startPoint: .topLeading,                   endPoint: .bottomTrailing) // how to add a gradient to a button in SwiftUI
+           LinearGradient(colors: [.blue, .red],                   startPoint: .topLeading,                   endPoint: .bottomTrailing)
         )
         .cornerRadius(20)
         .padding()
