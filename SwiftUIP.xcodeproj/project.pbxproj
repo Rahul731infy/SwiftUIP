@@ -15,6 +15,7 @@
 		B727B8252D8E61B100D558A6 /* SwiftUIPUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B727B8242D8E61B100D558A6 /* SwiftUIPUITests.swift */; };
 		B727B8272D8E61B100D558A6 /* SwiftUIPUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B727B8262D8E61B100D558A6 /* SwiftUIPUITestsLaunchTests.swift */; };
 		B727B8342D8E63F000D558A6 /* SwiftUIViewAnother.swift in Sources */ = {isa = PBXBuildFile; fileRef = B727B8332D8E63F000D558A6 /* SwiftUIViewAnother.swift */; };
+		B7C1A0172DA2A595001F1C0D /* DashBoard.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7C1A0162DA2A595001F1C0D /* DashBoard.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		B727B8242D8E61B100D558A6 /* SwiftUIPUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIPUITests.swift; sourceTree = "<group>"; };
 		B727B8262D8E61B100D558A6 /* SwiftUIPUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIPUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		B727B8332D8E63F000D558A6 /* SwiftUIViewAnother.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIViewAnother.swift; sourceTree = "<group>"; };
+		B7C1A0162DA2A595001F1C0D /* DashBoard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DashBoard.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				B727B80D2D8E61B100D558A6 /* Assets.xcassets */,
 				B727B80F2D8E61B100D558A6 /* Preview Content */,
 				B727B8332D8E63F000D558A6 /* SwiftUIViewAnother.swift */,
+				B7C1A0162DA2A595001F1C0D /* DashBoard.swift */,
 			);
 			path = SwiftUIP;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 			files = (
 				B727B80C2D8E61AC00D558A6 /* ContentView.swift in Sources */,
 				B727B80A2D8E61AC00D558A6 /* SwiftUIPApp.swift in Sources */,
+				B7C1A0172DA2A595001F1C0D /* DashBoard.swift in Sources */,
 				B727B8342D8E63F000D558A6 /* SwiftUIViewAnother.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
